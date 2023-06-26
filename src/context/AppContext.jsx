@@ -22,5 +22,8 @@ export const AppProvider = ({ children }) => {
     >
       {children}
     </AppContext.Provider>
+
+    
   );
 };
+
